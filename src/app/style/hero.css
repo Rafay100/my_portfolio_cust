@@ -1,14 +1,15 @@
 .hero-container{
-    min-height: 100vh;
-    background: no-repeat url('/profile.jpeg');
-    background-size: 20%;
+    min-height: 150vh;
+    background: no-repeat url("/Profile-Pic.jpeg");
+    background-size: 15%;
     background-position: left 150px top 150px;
+
 }
 
 .hero-content{
     display: grid;
-    height: calc(100vh - 60px);
-    grid-template-columns: 1fr 1fr;
+    height: calc(100vh - 85px);
+    grid-template-columns: 2fr 1fr;
 }
 
 .hero-text{
@@ -18,7 +19,7 @@
     justify-content: center;
     align-items: center;
     color: #ffff;
-    font-size: 6.25rem;
+    font-size: 6.35rem;
 }
 
 .hero-msin p{

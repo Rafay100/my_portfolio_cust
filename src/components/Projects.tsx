@@ -36,14 +36,14 @@ const data=[
         id: 5,
         title:" Static Interactive Resume " ,
         desc:"A TypeScript-based interactive resume build with HTML and CSS, allowing users to showcase their skills dynamically",
-        img:"/project-5.jpeg" ,
+        img:"/project-5.png" ,
         tags:["HTML", "Node", "CSS", "TypeScript"],
     },
     {
         id: 6,
         title:"Simple Calculator" ,
         desc:"A basic HTML and TypeScript calculator for permoting essential arithmetic operations.",
-        img:"/project-6.jpeg" ,
+        img:"/project-6.png" ,
         tags:["HTML", "Node", "CSS", "TypeScript"],
     },
 ];

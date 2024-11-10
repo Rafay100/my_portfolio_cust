@@ -15,16 +15,16 @@ const Contact = () => {
             Drop me aline, give me acall, or send me a message by submitting the form.
           </p>
           <div className='contact-flex' data-aos="zoom-in-up">
-          <LuMail  size={30} /> Khizrayounus12@gmail.com
+          <LuMail  size={30} /> srafay2021@gmail.com
           </div>
           <div className='contact-flex' data-aos="zoom-in-up">
-          <BsTelephone size={30} /> 031-7286-7878
+          <BsTelephone size={30} /> 0316-1612741
           </div>
           <div className='contact-flex' data-aos="zoom-in-up">
-          <CiLinkedin size={30} /> Khizra Younus
+          <CiLinkedin size={30} /> SYED ABDUL RAFAY
           </div>
           <div className='contact-flex' data-aos="zoom-in-up">
-          <AiOutlineGithub size={30} /> Khizra098
+          <AiOutlineGithub size={30} /> Rafay100
           </div>
         </div>
         <div className='contact-space'>
